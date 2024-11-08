@@ -1,0 +1,67 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "./img/skills/html-5.png",
+            "description": "HTML "
+        },
+        {
+            "id": "2",
+            "src": "./img/skills/css-3 (1).png",
+            "description": "CSS"
+        },
+        {
+            "id": "3",
+            "src": "./img/skills/java-script.png",
+            "description": "Javascript"
+        },
+        {
+            "id": "4",
+            "src": "./img/skills/atom (1).png",
+            "description": "React js"
+        },
+        {
+            "id": "5",
+            "src": "./img/skills/mysql.png",
+            "description": "SQL"
+        },
+        {
+            "id": "6",
+            "src": "./img/skills/java.png",
+            "description": "Core java"
+        },
+        {
+            "id": "7",
+            "src": "./img/skills/python.png",
+            "description": "Python"
+        },
+        {
+            "id": "8",
+            "src": "./img/skills/programming.png",
+            "description": "OOP concepts"
+        }
+    ],
+    "portfolio": [
+        {
+            "id": "1",
+            "src": "./img/placeholder-image.png",
+            "title": "Startup Registration",
+            "description": "This project is a clone of the TNStartup registration system, designed to streamline the process for entrepreneurs in Tamil Nadu to register their startups and access governmental support and funding. The system employs modern web technologies such as MongoDB for database management and React for building a responsive and interactive user interface.",
+            "link": "https://github.com/Jayasreedeveloper/Startup-registration"
+        },
+        {
+            "id": "2",
+            "src": "./img/sign-inform.jpg",
+            "title": "Sign-in page",
+            "description": "This project involves creating an intuitive and efficient form to collect and manage employee details. The form is designed to ensure ease of use while capturing all necessary information about employees for a company's HR department. The system utilizes MongoDB for server-side database management, along with front-end technologies such as React for a responsive and interactive user interface.",
+            "link": "https://github.com/Jayasreedeveloper/proj1"
+        },
+        {
+            "id": "3",
+            "src": "./img/placeholder-image-2.png",
+            "title": "Dice",
+            "description": "This project is a simple yet engaging dice game implemented using JavaScript. The game involves rolling a pair of dice and determining the outcome based on the values rolled. It is designed to demonstrate the basics of JavaScript programming, including event handling, random number generation, and DOM manipulation. The game's user interface is interactive and visually appealing, providing an enjoyable experience for the players.",
+            "link": "https://github.com/Jayasreedeveloper/Dice"
+        }
+    ]
+}
